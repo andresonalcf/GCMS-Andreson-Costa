@@ -26,7 +26,6 @@ public class HelloWorld {
 		System.out.println("HelloWorld5");
 		
 
->>>>>>> refs/heads/hotfix
 	}
 
 }
