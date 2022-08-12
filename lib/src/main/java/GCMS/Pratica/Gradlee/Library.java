@@ -6,6 +6,6 @@ package GCMS.Pratica.Gradlee;
 public class Library {
     public boolean someLibraryMethod() {
     	//teste
-        return true;
+        return false;
     }
 }
