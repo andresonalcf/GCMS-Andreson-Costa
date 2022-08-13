@@ -7,6 +7,6 @@ public class Library {
     public boolean someLibraryMethod() {
     	//teste
     	//Parte5
-        return false;
+        return true;
     }
 }
